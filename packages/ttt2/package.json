@@ -1,5 +1,5 @@
 {
-  "name": "ttt1",
+  "name": "ttt2",
   "version": "0.0.8",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,8 @@
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "ttt1": "0.0.4"
+  },
   "gitHead": "0004d83ab5d48b43fc15c7803bb03aefad9a834e"
 }
